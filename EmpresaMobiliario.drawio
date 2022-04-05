@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T17:06:35.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="XKDy8Ms4A4bwe4acQxYp" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T17:08:14.718Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="cRBYVuErWP76M1vAz4aG" version="17.2.4" type="github">
   <diagram id="ZVaNKG3Bv1ekR_QCjsuc" name="Page-1">
     <mxGraphModel dx="946" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="zvkqCvP5T53trT0EhQva-25" value="- codigo&#xa;- precio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zvkqCvP5T53trT0EhQva-24">
           <mxGeometry y="26" width="140" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="zvkqCvP5T53trT0EhQva-26" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" target="zvkqCvP5T53trT0EhQva-12">
+        <mxCell id="zvkqCvP5T53trT0EhQva-26" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zvkqCvP5T53trT0EhQva-22" target="zvkqCvP5T53trT0EhQva-12">
           <mxGeometry x="0.4449" y="57" width="160" relative="1" as="geometry">
             <mxPoint x="320" y="270" as="sourcePoint" />
             <mxPoint x="490" y="260" as="targetPoint" />
